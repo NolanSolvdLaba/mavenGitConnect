@@ -8,7 +8,7 @@ public class Main {
         // IntelliJ IDEA suggests fixing it.
         System.out.printf("Sometimes food is tasty.");
         System.out.printf("Alternatively, sometimes food is not tasty.");
-
+        System.out.printf("Try to avoid the second category of food.");
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
 
